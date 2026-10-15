@@ -46,6 +46,4 @@ script.js     Load triggers, progress sync, and replay resets
 - The ambient background (gradients + grid) is optional — remove the `.ambient` and `.grid-overlay` divs if you don't need them.
 - Each loader is isolated. You don't have to include all five.
 
-## Support
 
-Questions or issues? Reach out via Payhip or email **contact@enquiryconnect.com**.
